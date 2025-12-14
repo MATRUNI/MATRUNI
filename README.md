@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @MATRUNI
-- 👀 I’m interested in Deep Leraning.
-- 🌱 I’m currently learning  Back-End.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hi, I’m Himanshu Yadav
+- I finished learning HTML,CSS and JS
+- Next learning DSA, DBMS and frameWorks
 
 <!---
 MATRUNI/MATRUNI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
