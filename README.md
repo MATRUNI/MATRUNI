@@ -49,3 +49,4 @@ Focused on understanding backend basics and server-side logic.
 
  💬 **Always open to learning, collaboration, and feedback.**
 
+🌱 **Fun Fact:** *I experiment with code like I experiment with story ideas… sometimes messy, always entertaining.*
