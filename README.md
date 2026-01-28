@@ -6,17 +6,16 @@ I am an aspiring MERN Stack developer!
 ## 🛠 Tech Stack (Learning & Building)
 
 
-
 ### ✅ Comfortable With
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-### Currently Learning
+### 🌱 Currently Learning
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-123434?logo=express&logoColor=white)
 ### ⏭️ Next Up
 ![React](https://img.shields.io/badge/React-808080?logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-808080?logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-808080?logo=express&logoColor=white)
 
 
 ### 🧠 Also Worked With
@@ -30,9 +29,23 @@ I am an aspiring MERN Stack developer!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
+## 🚀 Projects
 
+### 📁 File System (Learning Project)
+A simple file system explorer built using **Node.js and Express**.  
+Focused on understanding backend basics and server-side logic.
 
-<!---
-MATRUNI/MATRUNI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**🔗 Repo: https://github.com/MATRUNI/File-System**
+## 📊 GitHub Stats
+
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MATRUNI&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MATRUNI&layout=compact&theme=dark&hide_border=true)
+
+## 🎯 Current Focus
+- Strengthening Node.js fundamentals
+- Understanding Express routing & middleware
+- Preparing to move into React
+
+ 💬 **Always open to learning, collaboration, and feedback.**
+
