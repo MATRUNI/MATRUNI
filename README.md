@@ -50,9 +50,10 @@ Focused on understanding backend basics and server-side logic.
 **🔗 Repo: https://github.com/MATRUNI/File-System**
 ## 📊 GitHub Stats
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MATRUNI&show_icons=true&theme=dark&hide_border=true)
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MATRUNI&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MATRUNI&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MATRUNI&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+
 
 ## 🎯 Current Focus
 - Strengthening Node.js fundamentals
