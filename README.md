@@ -43,11 +43,18 @@ I am an aspiring MERN Stack developer!
 
 ## 🚀 Projects
 
-### 📁 File System (Learning Project)
+### 📁 File System
 A simple file system explorer built using **Node.js and Express**.  
 Focused on understanding backend basics and server-side logic.
 
 **🔗 Repo: https://github.com/MATRUNI/File-System**
+
+### Canvas Sketchpad
+A high-performance drawing engine built with HTML5 Canvas and vanilla JavaScript.
+Focused on real-time stroke smoothing, pressure sensitivity, and zoomable rendering.
+
+**🔗 Repo: https://github.com/MATRUNI/Canvas-sketchpad**
+
 ## 📊 GitHub Stats
 
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MATRUNI&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
