@@ -57,9 +57,9 @@ Focused on real-time stroke smoothing, pressure sensitivity, and zoomable render
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=MATRUNI&theme=onedark&hide_border=true)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=MATRUNI&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MATRUNI&layout=donut&theme=onedark&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MATRUNI&theme=tokyonight&hide_border=true)
 
 
 ## 🎯 Current Focus
