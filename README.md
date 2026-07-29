@@ -1,6 +1,6 @@
 # Hello there, I am *Himanshu Yadav*!
 
-I am an aspiring MERN Stack developer!
+I am a Full-Stack MERN developer, currently diving into Java and Spring Boot!
 
 
 ## 🛠 Tech Stack (Learning & Building)
@@ -13,16 +13,19 @@ I am an aspiring MERN Stack developer!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="45" style="filter: invert(1);"/>
 </p>
 
 ### 🌱 Currently Learning
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-123434?logo=express&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="45"/>
+</p>
 
 
 ### 🧠 Also Worked With
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45"/>
 </p>
@@ -59,9 +62,9 @@ Focused on real-time stroke smoothing, pressure sensitivity, and zoomable render
 
 
 ## 🎯 Current Focus
-- Strengthening Node.js fundamentals
-- Understanding Express routing & middleware
-- Preparing to move into React
+- Building robust backend APIs with Spring Boot and Java
+- Scaling MERN stack applications for production
+- Exploring system design and microservices architecture
 
  💬 **Always open to learning, collaboration, and feedback.**
 
